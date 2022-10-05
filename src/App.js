@@ -4,7 +4,7 @@ import Activities from './components/Activities';
 
 
 function App() {
-  return <Activites/>
+  return <Activities/>
 }
 
   export default App;
