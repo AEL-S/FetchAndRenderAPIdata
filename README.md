@@ -8,7 +8,7 @@ This assigment was completed for the MIT xPro Fullstack Development with MERN ce
 Everything required to run this project is in this repository. You're welcome to fork and clone this repository and make it your own. 
 
 <h2>Roadmap of future improvements:</h2>
-I will return to this code at a later date to update the styling. 
+I will return to this code at a later date to update the styling and to make it reponsive so that it can be used on smaller devices. 
 
 <h2>Support:</h2>
 Feel free to message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions.
