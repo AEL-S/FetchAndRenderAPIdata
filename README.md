@@ -2,7 +2,7 @@
 
 This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. The objective was to create a React app that incorporated data obtained from an API. In other words, fetch the data from the API and render it on the app. I chose to fetch data from boredapi.com to create a simple React app where the user can press a button and be given an idea for an activity to help ease boredom. The app will remember each activity, so the more the button is pressed, the longer the list of activities becomes. I did some basic styling, but the focus here was really to gain an understanding of APIs and how to utilize them. 
 
-<img src="APIfetchAndRender_idea_listSS">
+<img src="APIfetchAndRender_idea_listSS.png">
 
 <h2>To run:</h2>
 Everything required to run this project is in this repository. You're welcome to fork and clone this repository and make it your own. 
